@@ -1,0 +1,5 @@
+INSTALLING COFFEESCRIPT
+  sudo npm install coffee-script
+  
+RUNNING
+   coffee server.coffee
